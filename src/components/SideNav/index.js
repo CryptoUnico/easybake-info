@@ -163,8 +163,8 @@ function SideNav({ history }) {
           </AutoColumn>
           <AutoColumn gap="0.5rem" style={{ marginLeft: '.75rem', marginBottom: '4rem' }}>
             <HeaderText>
-              <Link href="https://pancakeswap.finance/" target="_blank">
-                PancakeSwap
+              <Link href="https://EasyBake.finance/" target="_blank">
+                EasybakeSwap
               </Link>
             </HeaderText>
             <HeaderText>
@@ -173,7 +173,7 @@ function SideNav({ history }) {
               </Link>
             </HeaderText>
             <HeaderText>
-              <Link href="https://twitter.com/PancakeSwap " target="_blank">
+              <Link href="https://twitter.com/EasybakeSwap " target="_blank">
                 Twitter
               </Link>
             </HeaderText>
@@ -191,10 +191,10 @@ function SideNav({ history }) {
           )}
         </DesktopWrapper>
       ) : (
-        <MobileWrapper>
-          <Title />
-        </MobileWrapper>
-      )}
+          <MobileWrapper>
+            <Title />
+          </MobileWrapper>
+        )}
     </Wrapper>
   )
 }
