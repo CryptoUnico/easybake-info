@@ -1,6 +1,6 @@
-# Pancake History
+# Easybake History
 
-Check it out live: [https://pancakeswap.info/](https://pancakeswap.info/).
+Check meowt live: [https://easybakeswap.info/](https://easybakeswap.info/)
 
 ### To Start Development
 
